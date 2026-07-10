@@ -1,256 +1,221 @@
-# 👋 Hi, I'm Sulaiman Khan
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hey, I'm Sulaiman Khan
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=ffffff&size=24&width=700&lines=Backend+Software+Engineer;Distributed+Systems+%7C+AI+Applications;Building+Scalable+Backend+Infrastructure;Real-Time+Systems+%7C+RAG+%7C+DevOps)
-
----
-
-## 🚀 About Me
-
-I'm a **Backend Software Engineer** passionate about building scalable software, distributed systems, AI-powered applications, and production-ready backend infrastructure.
-
-Currently, I'm working as a **Backend Developer at Techdock Labs**, where I build backend systems, CI/CD pipelines, deployment workflows, analytics infrastructure, and production services. Previously, I served as **Co-Project Lead at Docnish**, architecting large portions of the platform including payments, booking, search, recommendations, CRM, CMS, and deployment infrastructure.
-
-I enjoy solving large-scale engineering problems—from designing high-throughput real-time communication platforms to AI-assisted traffic optimization and retrieval-augmented reasoning systems.
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=26&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Backend+Software+Engineer;Building+Distributed+Systems;Redis+%7C+Docker+%7C+AI+%7C+RAG;I+love+engineering+complex+systems."/>
+</p>
 
 ---
 
-# 💻 Technical Skills
+## ⚡ About Me
 
-### Languages
+```cpp
+class Sulaiman {
 
-- JavaScript
-- TypeScript
-- Python
-- SQL
-- C++
-- Bash
+public:
 
-### Backend
+string role = "Backend Software Engineer";
 
-- Node.js
-- Express.js
-- FastAPI
-- REST APIs
-- Socket.IO
-- JWT
-- OAuth2
-- Redis
-- BullMQ
+vector<string> interests = {
+    "Distributed Systems",
+    "Backend Engineering",
+    "AI",
+    "System Design",
+    "DevOps"
+};
+
+vector<string> currentlyBuilding = {
+    "Distributed Discord",
+    "Traffic Intelligence Platform",
+    "RAG Conflict Resolver"
+};
+
+};
+```
+
+---
+
+## 🚀 Current Obsession
+
+I'm currently obsessed with building software that scales.
+
+Not CRUD apps.
+
+Real systems.
+
+Things like
+
+- Distributed Chat Systems
 - Redis Streams
-- Firebase
-
-### Frontend
-
-- React
-- Next.js
-- Redux Toolkit
-- Tailwind CSS
-- HTML
-- CSS
-- D3.js
-- Chart.js
-
-### Databases
-
-- MongoDB
-- PostgreSQL
-- MySQL
-- Redis
-- NeonDB
-- Drizzle ORM
-- Cloudinary
-
-### DevOps & Cloud
-
-- Docker
-- AWS
-- GitHub Actions
-- CI/CD
-- PM2
-- Nginx
-
-### AI / ML
-
-- YOLOv8
-- FastAPI
-- PyTorch
-- Torch Geometric
-- STGCN
-- DCRNN
-- RAG
-- Vector Search
-
-### Testing
-
-- Artillery
-- k6
-- Jest
-- Postman
+- BullMQ Workers
+- Event Driven Architecture
+- AI-powered Traffic Optimization
+- Payment Infrastructure
+- Retrieval Augmented Generation
 
 ---
 
-# 🏆 Featured Projects
+# ⚙️ Tech Stack
 
-## 🚀 Distributed Real-Time Communication Platform
+<p align="center">
 
-A production-inspired messaging platform built to explore software engineering concepts behind modern communication systems.
+<img src="https://skillicons.dev/icons?i=nodejs,typescript,python,fastapi,react,nextjs,mongodb,postgres,redis,docker,aws,git,github,linux,cpp"/>
 
-### Highlights
+</p>
 
-- Horizontal Socket.IO architecture
+---
+
+# 🔥 Featured Projects
+
+## 💬 Distributed Chat Platform
+
+> **"What happens when Discord is your side project?"**
+
+Features
+
 - Redis Pub/Sub
-- Redis Streams Write-Ahead Logging
-- BullMQ Background Workers
-- Distributed Snowflake IDs
+- Redis Streams WAL
+- BullMQ
 - Presence Service
-- Adaptive batching
-- Fault-tolerant event processing
-- Dockerized deployment
-- Load tested with Artillery
-- Sustains ~16K messages/sec with burst handling through Redis Streams
-
-**Tech**
-
-`Node.js` `Redis` `BullMQ` `Socket.IO` `Docker` `PostgreSQL` `Drizzle ORM`
+- Snowflake IDs
+- Horizontal Scaling
+- Adaptive Batching
+- Docker
+- Artillery Load Testing
+- ~16K messages/sec
 
 ---
 
 ## 🚦 Smart Traffic Intelligence Platform
 
-AI-powered intelligent traffic management platform designed for city-scale traffic optimization.
+Making cities smarter using AI.
 
-### Features
-
-- Vehicle Detection
-- Helmet Detection
-- Accident Detection
-- Adaptive Traffic Signal Allocation
-- Congestion Scoring
-- Short-term Prediction (STGCN)
-- Long-term Prediction (DCRNN)
-- BLE Emergency Vehicle Routing
-- Centralized Monitoring Dashboard
-
-**Tech**
-
-`YOLOv8` `FastAPI` `PyTorch` `Torch Geometric`
+- YOLOv8
+- STGCN
+- DCRNN
+- Graph Neural Networks
+- FastAPI
+- BLE Routing
+- Adaptive Traffic Signals
+- Emergency Vehicle Priority
 
 ---
 
-## 🧠 RAG Conflict Resolution Assistant
+## 🧠 RAG Conflict Resolver
 
-Currently building a Retrieval-Augmented Reasoning assistant capable of understanding long conversation histories, retrieving relevant evidence, and helping resolve disputes using grounded responses instead of hallucinations.
+Imagine Discord arguments...
 
-Research Areas
+except the AI actually reads the chat history and tells who's correct using evidence.
 
-- Retrieval Augmented Generation
-- Semantic Search
-- Vector Databases
-- Conversational Memory
-- AI Moderation
-- Evidence-based Reasoning
+That's what I'm building.
 
 ---
 
-## 📚 NETZ
+## 💳 Docnish
 
-Founder & Developer
+As Co-Project Lead I helped build
 
-Interactive mathematics learning platform reaching **5,000+ monthly users** during peak traffic.
+✅ Payment Infrastructure
 
-### Features
+✅ Booking System
 
-- Progressive Web App
-- Interactive Visualizations
+✅ Recommendation Engine
+
+✅ CRM
+
+✅ CMS
+
+✅ Search
+
+✅ Docker Infrastructure
+
+✅ CI/CD
+
+✅ AWS
+
+Processed
+
+> **32,000+ Production Payments**
+
+---
+
+## 📈 NETZ
+
+Founder
+
+An educational platform that reached
+
+# 5000+ Monthly Users
+
+- Interactive Mathematics
 - Numerical Methods
-- Step-by-step Solutions
-- LaTeX Rendering
-- SEO Optimized
+- PWAs
+- SEO
+- Gamification
 
 ---
 
-# 💼 Professional Experience
-
-## Backend Developer
-### Techdock Labs
-
-**April 2026 — Present**
-
-- Building backend systems for multiple production applications.
-- Managing Docker deployments and GitHub Actions CI/CD pipelines.
-- Developing analytics infrastructure and deployment automation.
-- Optimizing APIs, backend architecture and production workflows.
-
----
-
-## Full Stack Intern & Co-Project Lead
-### Docnish
-
-**June 2025 — December 2025**
-
-- Architected backend and frontend systems from scratch.
-- Built payment infrastructure processing **32K+ production payments**.
-- Co-led engineering across **9 production products**.
-- Designed Booking, CRM, CMS, Recommendation Engine, Search and Orders.
-- Built Docker deployments, CI/CD and AWS infrastructure.
-- Designed systems supporting **300K+ monthly users**.
-
----
-
-# 🏅 Leadership & Achievements
-
-- 🚀 Co-Founder — Binary Battalions Coding Club
-- 🏆 Top 5 — Integral Internal Smart India Hackathon 2025
-- 🥈 Semi-finalist — HackFiesta 6.0 (IIIT Lucknow)
-- 🎯 Organizer & Question Setter — Integral Prompt War 1.0
-
----
-
-# 🎓 Education
-
-### Integral University, Lucknow
-
-**Bachelor of Computer Applications**
-
-2023 – 2026
-
-CGPA **8.2 / 10**
-
----
-
-# 🌱 Currently Exploring
-
-- Distributed Systems
-- Event Driven Architecture
-- High Performance Networking
-- AI Agents
-- Large Language Models
-- Retrieval Augmented Generation
-- Kubernetes
-- Software Architecture
-
----
-
-# 📫 Connect With Me
-
-📧 **Email:** sulaimanclass12b@gmail.com
-
-💼 **LinkedIn:**  
-https://www.linkedin.com/in/suleman-khan-b4ab2b275
-
-🌐 **Portfolio:** *(Coming Soon)*
-
----
+# 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sulaimankhan8&theme=algolia" />
+
+<img height=170 src="https://github-readme-stats.vercel.app/api?username=sulaimankhan8&show_icons=true&theme=tokyonight"/>
+
+<img height=170 src="https://github-readme-streak-stats.herokuapp.com/?user=sulaimankhan8&theme=tokyonight"/>
+
 </p>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=sulaimankhan8&show_icons=true&theme=tokyonight" height="170"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sulaimankhan8&theme=tokyonight" height="170"/>
-</p>
+---
 
 <p align="center">
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sulaimankhan8&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🏆 Achievements
+
+🏅 Top 5 — Smart India Hackathon Internal
+
+🥈 HackFiesta 6.0 Semi Finalist
+
+🚀 Co-Founder — Binary Battalions
+
+🎯 Organizer — Prompt War 1.0
+
+---
+
+# 🌱 Currently Learning
+
+```text
+███████████████████░░░░░░░ Redis Internals
+
+██████████████████████░░░ Kubernetes
+
+████████████████████████ AI Agents
+
+███████████████████████░ Event Driven Systems
+
+████████████████████░░░░ Distributed Systems
+```
+
+---
+
+# ☕ Fun Facts
+
+🎮 Mythic Immortal — MLBB
+
+⚔ Grandmaster — League of Legends
+
+🧱 I build stupidly large Redstone computers in Minecraft.
+
+🚀 I enjoy engineering more than coding.
+
+---
+
+<p align="center">
+
+"If it scales, it's beautiful."
+
 </p>
