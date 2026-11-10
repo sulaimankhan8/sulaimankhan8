@@ -18,72 +18,28 @@
 
 ## About me
 
-I'm a **backend software engineer** at **Techdock Labs** in Lucknow, India. I design and run the parts of a product people only notice when they break: real-time messaging, payment flows, background queues, and the CI/CD and monitoring that keep them shipping.
+I build the parts of a product people only notice when they break: real-time messaging, payment flows, background queues, and the pipelines that ship and watch them. Today that's at **Techdock Labs**; before that I joined **Docnish** as an intern, got hired full-time, and ended up co-leading nine production products, including the payment system behind **32K+ real payments in four months**.
 
-Before Techdock I joined **Docnish** as an intern, was hired full-time, and went on to co-lead engineering across nine production products, including the payment infrastructure behind **32K+ real payments in four months**.
-
-```ts
-const sulaiman = {
-  role:      "Backend Software Engineer",
-  company:   "Techdock Labs",
-  location:  "Lucknow, India",
-  focus:     ["Distributed & real-time systems", "Payment infrastructure", "Event-driven queues", "DevOps & observability"],
-  building:  ["Myriad Voices — chat that survives without the internet", "Netz v2", "PactDoc"],
-  education: "BCA, Integral University (2023–2026)",
-  openTo:    "Backend / platform engineering roles",
-};
-```
+Off the clock I build things to find out how big systems work, like a Discord-style chat that keeps working over Bluetooth when the internet is gone.
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/stats-light.svg">
-  <img alt="32K+ production payments through Cashfree and Razorpay in 4 months; 300K monthly users the Docnish system was built for; about 16K messages per second in load tests of my chat platform; 5,000+ monthly learners on Netz at its peak." src="assets/stats-dark.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/card-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/card-light.svg">
+  <img alt="Profile card: Backend Software Engineer at Techdock Labs, Lucknow, India. Focus: real-time systems, payments, queues. Shipped: 32K+ payments in 4 months, about 16K messages per second in load tests, 5,000+ monthly learners on Netz. Live GitHub numbers refresh daily." src="assets/card-dark.svg" width="100%">
 </picture>
 
-## Tech stack
+## Recently shipped
 
-<table>
-  <tr>
-    <td><b>Languages</b></td>
-    <td><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-21262d?style=for-the-badge&logo=typescript&logoColor=3178C6"> <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-21262d?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> <img alt="Python" src="https://img.shields.io/badge/Python-21262d?style=for-the-badge&logo=python&logoColor=3776AB"> <img alt="Go" src="https://img.shields.io/badge/Go-21262d?style=for-the-badge&logo=go&logoColor=00ADD8"> <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-21262d?style=for-the-badge&logo=cplusplus&logoColor=659AD2"> <img alt="SQL" src="https://img.shields.io/badge/SQL-21262d?style=for-the-badge"> <img alt="Bash" src="https://img.shields.io/badge/Bash-21262d?style=for-the-badge&logo=gnubash&logoColor=4EAA25"></td>
-  </tr>
-  <tr>
-    <td><b>Backend</b></td>
-    <td><img alt="Node.js" src="https://img.shields.io/badge/Node.js-21262d?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E"> <img alt="Express" src="https://img.shields.io/badge/Express-21262d?style=for-the-badge&logo=express&logoColor=FFFFFF"> <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-21262d?style=for-the-badge&logo=fastapi&logoColor=009688"> <img alt="REST APIs" src="https://img.shields.io/badge/REST%20APIs-21262d?style=for-the-badge"> <img alt="JWT" src="https://img.shields.io/badge/JWT-21262d?style=for-the-badge&logo=jsonwebtokens&logoColor=FB015B"> <img alt="OAuth" src="https://img.shields.io/badge/OAuth-21262d?style=for-the-badge"></td>
-  </tr>
-  <tr>
-    <td><b>Real-time & queues</b></td>
-    <td><img alt="Socket.IO" src="https://img.shields.io/badge/Socket.IO-21262d?style=for-the-badge&logo=socketdotio&logoColor=FFFFFF"> <img alt="WebRTC · Mediasoup" src="https://img.shields.io/badge/WebRTC%20%C2%B7%20Mediasoup-21262d?style=for-the-badge&logo=webrtc&logoColor=FFFFFF"> <img alt="Redis Pub/Sub" src="https://img.shields.io/badge/Redis%20Pub%2FSub-21262d?style=for-the-badge&logo=redis&logoColor=FF4438"> <img alt="Redis Streams" src="https://img.shields.io/badge/Redis%20Streams-21262d?style=for-the-badge&logo=redis&logoColor=FF4438"> <img alt="BullMQ" src="https://img.shields.io/badge/BullMQ-21262d?style=for-the-badge"></td>
-  </tr>
-  <tr>
-    <td><b>Databases</b></td>
-    <td><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-21262d?style=for-the-badge&logo=postgresql&logoColor=4169E1"> <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-21262d?style=for-the-badge&logo=mongodb&logoColor=47A248"> <img alt="MySQL" src="https://img.shields.io/badge/MySQL-21262d?style=for-the-badge&logo=mysql&logoColor=4479A1"> <img alt="Redis" src="https://img.shields.io/badge/Redis-21262d?style=for-the-badge&logo=redis&logoColor=FF4438"> <img alt="Drizzle ORM" src="https://img.shields.io/badge/Drizzle%20ORM-21262d?style=for-the-badge&logo=drizzle&logoColor=C5F74F"> <img alt="Supabase" src="https://img.shields.io/badge/Supabase-21262d?style=for-the-badge&logo=supabase&logoColor=3FCF8E"></td>
-  </tr>
-  <tr>
-    <td><b>DevOps & cloud</b></td>
-    <td><img alt="Docker" src="https://img.shields.io/badge/Docker-21262d?style=for-the-badge&logo=docker&logoColor=2496ED"> <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-21262d?style=for-the-badge&logo=githubactions&logoColor=2088FF"> <img alt="AWS" src="assets/badges/aws.svg"> <img alt="Nginx" src="https://img.shields.io/badge/Nginx-21262d?style=for-the-badge&logo=nginx&logoColor=009639"> <img alt="PM2" src="https://img.shields.io/badge/PM2-21262d?style=for-the-badge&logo=pm2&logoColor=FFFFFF"> <img alt="Linux" src="https://img.shields.io/badge/Linux-21262d?style=for-the-badge&logo=linux&logoColor=FCC624"> <img alt="Vercel" src="https://img.shields.io/badge/Vercel-21262d?style=for-the-badge&logo=vercel&logoColor=FFFFFF"> <img alt="Git" src="https://img.shields.io/badge/Git-21262d?style=for-the-badge&logo=git&logoColor=F05032"></td>
-  </tr>
-  <tr>
-    <td><b>Frontend</b></td>
-    <td><img alt="React" src="https://img.shields.io/badge/React-21262d?style=for-the-badge&logo=react&logoColor=61DAFB"> <img alt="Next.js" src="https://img.shields.io/badge/Next.js-21262d?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF"> <img alt="Redux" src="https://img.shields.io/badge/Redux-21262d?style=for-the-badge&logo=redux&logoColor=764ABC"> <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-21262d?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4"> <img alt="Vite" src="https://img.shields.io/badge/Vite-21262d?style=for-the-badge&logo=vite&logoColor=646CFF"> <img alt="D3.js" src="https://img.shields.io/badge/D3.js-21262d?style=for-the-badge&logo=d3&logoColor=F9A03C"> <img alt="Chart.js" src="https://img.shields.io/badge/Chart.js-21262d?style=for-the-badge&logo=chartdotjs&logoColor=FF6384"> <img alt="Three.js" src="https://img.shields.io/badge/Three.js-21262d?style=for-the-badge&logo=threedotjs&logoColor=FFFFFF"> <img alt="PWA" src="https://img.shields.io/badge/PWA-21262d?style=for-the-badge&logo=pwa&logoColor=FFFFFF"></td>
-  </tr>
-  <tr>
-    <td><b>Mobile & desktop</b></td>
-    <td><img alt="Capacitor" src="https://img.shields.io/badge/Capacitor-21262d?style=for-the-badge&logo=capacitor&logoColor=119EFF"> <img alt="Wails" src="https://img.shields.io/badge/Wails-21262d?style=for-the-badge&logo=go&logoColor=00ADD8"> <img alt="Bluetooth LE" src="https://img.shields.io/badge/Bluetooth%20LE-21262d?style=for-the-badge&logo=bluetooth&logoColor=0082FC"></td>
-  </tr>
-  <tr>
-    <td><b>AI / ML</b></td>
-    <td><img alt="YOLOv8" src="https://img.shields.io/badge/YOLOv8-21262d?style=for-the-badge&logo=ultralytics&logoColor=FFFFFF"> <img alt="ONNX Runtime" src="https://img.shields.io/badge/ONNX%20Runtime-21262d?style=for-the-badge&logo=onnx&logoColor=FFFFFF"> <img alt="RAG" src="https://img.shields.io/badge/RAG-21262d?style=for-the-badge"> <img alt="Graph neural nets" src="https://img.shields.io/badge/Graph%20neural%20nets-21262d?style=for-the-badge"></td>
-  </tr>
-  <tr>
-    <td><b>Testing & performance</b></td>
-    <td><img alt="Jest" src="https://img.shields.io/badge/Jest-21262d?style=for-the-badge&logo=jest&logoColor=C21325"> <img alt="Playwright" src="https://img.shields.io/badge/Playwright-21262d?style=for-the-badge"> <img alt="Artillery" src="https://img.shields.io/badge/Artillery-21262d?style=for-the-badge"> <img alt="k6" src="https://img.shields.io/badge/k6-21262d?style=for-the-badge&logo=k6&logoColor=7D64FF"> <img alt="Postman" src="https://img.shields.io/badge/Postman-21262d?style=for-the-badge&logo=postman&logoColor=FF6C37"> <img alt="Lighthouse" src="https://img.shields.io/badge/Lighthouse-21262d?style=for-the-badge&logo=lighthouse&logoColor=F44B21"></td>
-  </tr>
-  <tr>
-    <td><b>Payments</b></td>
-    <td><img alt="Razorpay" src="https://img.shields.io/badge/Razorpay-21262d?style=for-the-badge&logo=razorpay&logoColor=3395FF"> <img alt="Cashfree" src="https://img.shields.io/badge/Cashfree-21262d?style=for-the-badge"></td>
-  </tr>
-</table>
+<!-- shipping:start -->
+- **[Netz](https://github.com/sulaimankhan8/Netz)** — [Add new algorithm modules and calculator pages across multiple units](https://github.com/sulaimankhan8/Netz/commit/4ee280848fce9f7aef4e46bee1a17a883933addb) <sub>Nov 7</sub>
+- **[Netz](https://github.com/sulaimankhan8/Netz)** — [Add Unit 10 and Unit 11 financial and tax calculators](https://github.com/sulaimankhan8/Netz/commit/91a60f780071b6d5421f2f38b89afd371eb920b7) <sub>Nov 5</sub>
+- **[Portfolio](https://github.com/sulaimankhan8/Portfolio)** — [Give each Lesser Gu its own 3D emblem](https://github.com/sulaimankhan8/Portfolio/commit/bca18eb7fc0b8e5f21416bf07588d5a4b8728fd9) <sub>Nov 3</sub>
+- **[Portfolio](https://github.com/sulaimankhan8/Portfolio)** — [Update projects with Oct 2026 progress and fresh screenshots](https://github.com/sulaimankhan8/Portfolio/commit/5f2959466c3bb8498ea56a4faf0ef922e858834a) <sub>Nov 1</sub>
+- **[Myriad Voices](https://github.com/sulaimankhan8/demo-discord)** — [Add native code explanation docs and frontend UI components](https://github.com/sulaimankhan8/demo-discord/commit/9cb120dd34186440962cc847afe4d18be40c4035) <sub>Nov 1</sub>
+- **[Myriad Voices](https://github.com/sulaimankhan8/demo-discord)** — [Ship the APK with the website so the download button shows on Vercel](https://github.com/sulaimankhan8/demo-discord/commit/acfe8f536bcb85b0afe61eb221d258ef7511469e) <sub>Oct 30</sub>
+
+<sub>Pulled from my commits by a GitHub Action · last refreshed Nov 10, 2026</sub>
+<!-- shipping:end -->
 
 ## Featured projects
 
@@ -141,6 +97,51 @@ const sulaiman = {
 
 </details>
 
+## Tech stack
+
+<table>
+  <tr>
+    <td><b>Languages</b></td>
+    <td><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-21262d?style=for-the-badge&logo=typescript&logoColor=3178C6"> <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-21262d?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> <img alt="Python" src="https://img.shields.io/badge/Python-21262d?style=for-the-badge&logo=python&logoColor=3776AB"> <img alt="Go" src="https://img.shields.io/badge/Go-21262d?style=for-the-badge&logo=go&logoColor=00ADD8"> <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-21262d?style=for-the-badge&logo=cplusplus&logoColor=659AD2"> <img alt="SQL" src="https://img.shields.io/badge/SQL-21262d?style=for-the-badge"> <img alt="Bash" src="https://img.shields.io/badge/Bash-21262d?style=for-the-badge&logo=gnubash&logoColor=4EAA25"></td>
+  </tr>
+  <tr>
+    <td><b>Backend</b></td>
+    <td><img alt="Node.js" src="https://img.shields.io/badge/Node.js-21262d?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E"> <img alt="Express" src="https://img.shields.io/badge/Express-21262d?style=for-the-badge&logo=express&logoColor=FFFFFF"> <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-21262d?style=for-the-badge&logo=fastapi&logoColor=009688"> <img alt="REST APIs" src="https://img.shields.io/badge/REST%20APIs-21262d?style=for-the-badge"> <img alt="JWT" src="https://img.shields.io/badge/JWT-21262d?style=for-the-badge&logo=jsonwebtokens&logoColor=FB015B"> <img alt="OAuth" src="https://img.shields.io/badge/OAuth-21262d?style=for-the-badge"></td>
+  </tr>
+  <tr>
+    <td><b>Real-time & queues</b></td>
+    <td><img alt="Socket.IO" src="https://img.shields.io/badge/Socket.IO-21262d?style=for-the-badge&logo=socketdotio&logoColor=FFFFFF"> <img alt="WebRTC · Mediasoup" src="https://img.shields.io/badge/WebRTC%20%C2%B7%20Mediasoup-21262d?style=for-the-badge&logo=webrtc&logoColor=FFFFFF"> <img alt="Redis Pub/Sub" src="https://img.shields.io/badge/Redis%20Pub%2FSub-21262d?style=for-the-badge&logo=redis&logoColor=FF4438"> <img alt="Redis Streams" src="https://img.shields.io/badge/Redis%20Streams-21262d?style=for-the-badge&logo=redis&logoColor=FF4438"> <img alt="BullMQ" src="https://img.shields.io/badge/BullMQ-21262d?style=for-the-badge"></td>
+  </tr>
+  <tr>
+    <td><b>Databases</b></td>
+    <td><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-21262d?style=for-the-badge&logo=postgresql&logoColor=4169E1"> <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-21262d?style=for-the-badge&logo=mongodb&logoColor=47A248"> <img alt="MySQL" src="https://img.shields.io/badge/MySQL-21262d?style=for-the-badge&logo=mysql&logoColor=4479A1"> <img alt="Redis" src="https://img.shields.io/badge/Redis-21262d?style=for-the-badge&logo=redis&logoColor=FF4438"> <img alt="Drizzle ORM" src="https://img.shields.io/badge/Drizzle%20ORM-21262d?style=for-the-badge&logo=drizzle&logoColor=C5F74F"> <img alt="Supabase" src="https://img.shields.io/badge/Supabase-21262d?style=for-the-badge&logo=supabase&logoColor=3FCF8E"></td>
+  </tr>
+  <tr>
+    <td><b>DevOps & cloud</b></td>
+    <td><img alt="Docker" src="https://img.shields.io/badge/Docker-21262d?style=for-the-badge&logo=docker&logoColor=2496ED"> <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-21262d?style=for-the-badge&logo=githubactions&logoColor=2088FF"> <img alt="AWS" src="assets/badges/aws.svg"> <img alt="Nginx" src="https://img.shields.io/badge/Nginx-21262d?style=for-the-badge&logo=nginx&logoColor=009639"> <img alt="PM2" src="https://img.shields.io/badge/PM2-21262d?style=for-the-badge&logo=pm2&logoColor=FFFFFF"> <img alt="Linux" src="https://img.shields.io/badge/Linux-21262d?style=for-the-badge&logo=linux&logoColor=FCC624"> <img alt="Vercel" src="https://img.shields.io/badge/Vercel-21262d?style=for-the-badge&logo=vercel&logoColor=FFFFFF"> <img alt="Git" src="https://img.shields.io/badge/Git-21262d?style=for-the-badge&logo=git&logoColor=F05032"></td>
+  </tr>
+  <tr>
+    <td><b>Frontend</b></td>
+    <td><img alt="React" src="https://img.shields.io/badge/React-21262d?style=for-the-badge&logo=react&logoColor=61DAFB"> <img alt="Next.js" src="https://img.shields.io/badge/Next.js-21262d?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF"> <img alt="Redux" src="https://img.shields.io/badge/Redux-21262d?style=for-the-badge&logo=redux&logoColor=764ABC"> <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-21262d?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4"> <img alt="Vite" src="https://img.shields.io/badge/Vite-21262d?style=for-the-badge&logo=vite&logoColor=646CFF"> <img alt="D3.js" src="https://img.shields.io/badge/D3.js-21262d?style=for-the-badge&logo=d3&logoColor=F9A03C"> <img alt="Chart.js" src="https://img.shields.io/badge/Chart.js-21262d?style=for-the-badge&logo=chartdotjs&logoColor=FF6384"> <img alt="Three.js" src="https://img.shields.io/badge/Three.js-21262d?style=for-the-badge&logo=threedotjs&logoColor=FFFFFF"> <img alt="PWA" src="https://img.shields.io/badge/PWA-21262d?style=for-the-badge&logo=pwa&logoColor=FFFFFF"></td>
+  </tr>
+  <tr>
+    <td><b>Mobile & desktop</b></td>
+    <td><img alt="Capacitor" src="https://img.shields.io/badge/Capacitor-21262d?style=for-the-badge&logo=capacitor&logoColor=119EFF"> <img alt="Wails" src="https://img.shields.io/badge/Wails-21262d?style=for-the-badge&logo=go&logoColor=00ADD8"> <img alt="Bluetooth LE" src="https://img.shields.io/badge/Bluetooth%20LE-21262d?style=for-the-badge&logo=bluetooth&logoColor=0082FC"></td>
+  </tr>
+  <tr>
+    <td><b>AI / ML</b></td>
+    <td><img alt="YOLOv8" src="https://img.shields.io/badge/YOLOv8-21262d?style=for-the-badge&logo=ultralytics&logoColor=FFFFFF"> <img alt="ONNX Runtime" src="https://img.shields.io/badge/ONNX%20Runtime-21262d?style=for-the-badge&logo=onnx&logoColor=FFFFFF"> <img alt="RAG" src="https://img.shields.io/badge/RAG-21262d?style=for-the-badge"> <img alt="Graph neural nets" src="https://img.shields.io/badge/Graph%20neural%20nets-21262d?style=for-the-badge"></td>
+  </tr>
+  <tr>
+    <td><b>Testing & performance</b></td>
+    <td><img alt="Jest" src="https://img.shields.io/badge/Jest-21262d?style=for-the-badge&logo=jest&logoColor=C21325"> <img alt="Playwright" src="https://img.shields.io/badge/Playwright-21262d?style=for-the-badge"> <img alt="Artillery" src="https://img.shields.io/badge/Artillery-21262d?style=for-the-badge"> <img alt="k6" src="https://img.shields.io/badge/k6-21262d?style=for-the-badge&logo=k6&logoColor=7D64FF"> <img alt="Postman" src="https://img.shields.io/badge/Postman-21262d?style=for-the-badge&logo=postman&logoColor=FF6C37"> <img alt="Lighthouse" src="https://img.shields.io/badge/Lighthouse-21262d?style=for-the-badge&logo=lighthouse&logoColor=F44B21"></td>
+  </tr>
+  <tr>
+    <td><b>Payments</b></td>
+    <td><img alt="Razorpay" src="https://img.shields.io/badge/Razorpay-21262d?style=for-the-badge&logo=razorpay&logoColor=3395FF"> <img alt="Cashfree" src="https://img.shields.io/badge/Cashfree-21262d?style=for-the-badge"></td>
+  </tr>
+</table>
+
 ## Experience
 
 **Backend Developer · Techdock Labs** <sub>Apr 2026 – present</sub><br>
@@ -154,7 +155,7 @@ const sulaiman = {
 - Co-led engineering across nine products: booking, CRM, CMS, recommendations, search and orders
 - Built for 5,000+ concurrent and 300K monthly users; load, unit and E2E tested; Docker, GitHub Actions, AWS
 
-## Currently
+## Up next
 
 - Adding forward secrecy (Noise XX handshake) to Myriad Voices' direct messages
 - Switching on Google sign-in and Pro plans for Netz
@@ -167,4 +168,12 @@ const sulaiman = {
 - **Semi-finalist**, HackFiesta 6.0 at IIIT Lucknow, as team lead
 - Organiser and question setter, **Integral Prompt War 1.0**
 
-<p align="center"><sub>Banner and project art from <a href="https://portfolio-five-navy-sdnb8nj53u.vercel.app">my portfolio</a>, rendered in three.js.</sub></p>
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sulaimankhan8/sulaimankhan8/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sulaimankhan8/sulaimankhan8/output/snake-light.svg">
+  <img alt="A snake eating my GitHub contribution graph" src="https://raw.githubusercontent.com/sulaimankhan8/sulaimankhan8/output/snake-dark.svg" width="100%">
+</picture>
+
+<p align="center"><sub>Banner and project art from <a href="https://portfolio-five-navy-sdnb8nj53u.vercel.app">my portfolio</a>, rendered in three.js. The card, the shipping log and the snake refresh every day through GitHub Actions.</sub></p>
