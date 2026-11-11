@@ -31,14 +31,14 @@ Off the clock I build things to find out how big systems work, like a Discord-st
 ## Recently shipped
 
 <!-- shipping:start -->
+- **[Netz](https://github.com/sulaimankhan8/Netz)** — [Reorganize project structure and documentation files](https://github.com/sulaimankhan8/Netz/commit/11a91a33a1b1548314976458b048f399ee31c95e) <sub>Nov 11</sub>
+- **[Portfolio](https://github.com/sulaimankhan8/Portfolio)** — [Add portfolio application with gu dossier and theme support](https://github.com/sulaimankhan8/Portfolio/commit/d378dc7dc7a7c92798e70b061d8ccbe2302e8bbc) <sub>Nov 10</sub>
 - **[Netz](https://github.com/sulaimankhan8/Netz)** — [Add new algorithm modules and calculator pages across multiple units](https://github.com/sulaimankhan8/Netz/commit/4ee280848fce9f7aef4e46bee1a17a883933addb) <sub>Nov 7</sub>
-- **[Netz](https://github.com/sulaimankhan8/Netz)** — [Add Unit 10 and Unit 11 financial and tax calculators](https://github.com/sulaimankhan8/Netz/commit/91a60f780071b6d5421f2f38b89afd371eb920b7) <sub>Nov 5</sub>
 - **[Portfolio](https://github.com/sulaimankhan8/Portfolio)** — [Give each Lesser Gu its own 3D emblem](https://github.com/sulaimankhan8/Portfolio/commit/bca18eb7fc0b8e5f21416bf07588d5a4b8728fd9) <sub>Nov 3</sub>
-- **[Portfolio](https://github.com/sulaimankhan8/Portfolio)** — [Update projects with Oct 2026 progress and fresh screenshots](https://github.com/sulaimankhan8/Portfolio/commit/5f2959466c3bb8498ea56a4faf0ef922e858834a) <sub>Nov 1</sub>
 - **[Myriad Voices](https://github.com/sulaimankhan8/demo-discord)** — [Add native code explanation docs and frontend UI components](https://github.com/sulaimankhan8/demo-discord/commit/9cb120dd34186440962cc847afe4d18be40c4035) <sub>Nov 1</sub>
 - **[Myriad Voices](https://github.com/sulaimankhan8/demo-discord)** — [Ship the APK with the website so the download button shows on Vercel](https://github.com/sulaimankhan8/demo-discord/commit/acfe8f536bcb85b0afe61eb221d258ef7511469e) <sub>Oct 30</sub>
 
-<sub>Pulled from my commits by a GitHub Action · last refreshed Nov 10, 2026</sub>
+<sub>Pulled from my commits by a GitHub Action · last refreshed Nov 11, 2026</sub>
 <!-- shipping:end -->
 
 ## Featured projects
