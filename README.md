@@ -31,14 +31,14 @@ Off the clock I build things to find out how big systems work, like a Discord-st
 ## Recently shipped
 
 <!-- shipping:start -->
+- **[Netz](https://github.com/sulaimankhan8/Netz)** — [Teach every method page in full, publish the tax pages](https://github.com/sulaimankhan8/Netz/commit/3d2dde39b8fd4ceb41135edc33efe52db758db7b) <sub>Nov 21</sub>
 - **[Portfolio](https://github.com/sulaimankhan8/Portfolio)** — [Refresh sitemap dates, add dateModified structured data, expand llms.txt](https://github.com/sulaimankhan8/Portfolio/commit/eb2369b1c23bddefc61f85e0710d67fa3566458c) <sub>Nov 15</sub>
 - **[Portfolio](https://github.com/sulaimankhan8/Portfolio)** — [Make resume PDF header links clickable](https://github.com/sulaimankhan8/Portfolio/commit/296d8718761529e82b89f7840c54a8f854f1b5a9) <sub>Nov 15</sub>
 - **[Netz](https://github.com/sulaimankhan8/Netz)** — [Reorganize project structure and documentation files](https://github.com/sulaimankhan8/Netz/commit/11a91a33a1b1548314976458b048f399ee31c95e) <sub>Nov 11</sub>
-- **[Netz](https://github.com/sulaimankhan8/Netz)** — [Add new algorithm modules and calculator pages across multiple units](https://github.com/sulaimankhan8/Netz/commit/4ee280848fce9f7aef4e46bee1a17a883933addb) <sub>Nov 7</sub>
 - **[Myriad Voices](https://github.com/sulaimankhan8/demo-discord)** — [Add native code explanation docs and frontend UI components](https://github.com/sulaimankhan8/demo-discord/commit/9cb120dd34186440962cc847afe4d18be40c4035) <sub>Nov 1</sub>
 - **[Myriad Voices](https://github.com/sulaimankhan8/demo-discord)** — [Ship the APK with the website so the download button shows on Vercel](https://github.com/sulaimankhan8/demo-discord/commit/acfe8f536bcb85b0afe61eb221d258ef7511469e) <sub>Oct 30</sub>
 
-<sub>Pulled from my commits by a GitHub Action · last refreshed Nov 20, 2026</sub>
+<sub>Pulled from my commits by a GitHub Action · last refreshed Nov 21, 2026</sub>
 <!-- shipping:end -->
 
 ## Featured projects
